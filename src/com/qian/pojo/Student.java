@@ -6,3 +6,6 @@ public class Student {
 	private int age;
 	private String master;
 }
+
+
+
