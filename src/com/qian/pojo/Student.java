@@ -7,3 +7,4 @@ public class Student {
 	private String sex;
 	private String GitTesthot_fox;
 }
+
